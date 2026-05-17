@@ -10,7 +10,7 @@ import requests
 # Config
 # ─────────────────────────────────────────────────────────────────────────────
 
-API = "http://localhost:8000/api/v1"
+API = "https://engivision-ai.onrender.com/api/v1"
 
 st.set_page_config(
     page_title="Career Intelligence Engine",
